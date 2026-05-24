@@ -1,5 +1,4 @@
 """Tests for pathmask.filter_paths() function."""
-import pytest
 from pathmask import filter_paths
 
 
