@@ -5,7 +5,7 @@ Glob-style path matcher with negation and brace expansion. Zero dependencies.
 ## Installation
 
 ```bash
-pip install pathmask
+python -m pip install -e .
 ```
 
 Or from source:
